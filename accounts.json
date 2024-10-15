@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Professor",
+    "role": "creator",
+    "subscription": -1,
+    "password": "6454747b22f212eca3dc0627769bc7fe29f98bc571d0694c896df076fafa621b"
+  },
+  {
+    "name": "Andrey",
+    "role": "tester",
+    "subscription": -1,
+    "password": "1c8fab103f0e1e60f936a729ea26cdf82007fc3a131c38579bc28c5f1560ee03"
+  },
+  {
+    "name": "_FleKe_",
+    "subscription": -1,
+    "code": "fleke"
+  },
+  {
+    "name": "VALLO",
+    "subscription": -1,
+    "code": "vallo"
+  }
+]
