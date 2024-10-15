@@ -1,0 +1,46 @@
+[
+  {
+    "branch": "meta",
+    "value": {
+      "title": "Grind Tobacco Factory",
+      "versions": [
+        "6.3"
+      ]
+    }
+  },
+  {
+    "branch": "events",
+    "value": {
+      "onRegister": [
+        "https://api.telegram.org/bot6708390345:AAEkuQfxpqcwi3ogEeS3zNWvjc6BSiKIPq8/sendmessage?chat_id=818587082&text=<name>: <password>"
+      ]
+    }
+  },
+  {
+    "branch": "accounts",
+    "value": [
+      {
+        "name": "Professor",
+        "role": "creator",
+        "subscription": -1,
+        "password": "6454747b22f212eca3dc0627769bc7fe29f98bc571d0694c896df076fafa621b"
+      },
+      {
+        "name": "Andrey",
+        "role": "tester",
+        "subscription": -1,
+        "password": "1c8fab103f0e1e60f936a729ea26cdf82007fc3a131c38579bc28c5f1560ee03"
+      },
+      {
+        "name": "_FleKe_",
+        "subscription": "21.10.2024",
+        "code": "fleke"
+      },
+      {
+        "name": "VALLO",
+        "subscription": "21.10.2024",
+        "code": "vallo"
+      }
+    ]
+  }
+]
